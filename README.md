@@ -2,7 +2,6 @@
 
 What predicts a track's popularity on Spotify? This project analyzes 586,601 tracks (1921 to 2020) using exploratory analysis, OLS regression with release year fixed effects, and hypothesis tests.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lakshyasajal18/spotify_popularity_regression/blob/main/Spotify_Audio_Features_Analysis.ipynb)
 
 ## Headline finding
 
